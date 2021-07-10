@@ -4,3 +4,5 @@
 ```
 python get-thumbnails.py
 ```
+
+最新のサムネイルを200枚保存できます
